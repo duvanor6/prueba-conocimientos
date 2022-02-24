@@ -1,0 +1,32 @@
+.NavBar-text {
+  margin-left: 20%;
+}
+
+.NavBar-search {
+  margin-right: 20%;
+}
+
+.tableMargin {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+}
+
+.cont {
+  text-align: right;
+  position: relative;
+  padding-top: 10px;
+}
+
+.buttonCont {
+  margin-right: 10%;
+}
+
+.textoModal {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.btn-excel {
+  margin-right: 5px;
+}
